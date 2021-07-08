@@ -20,5 +20,5 @@ So no further into, please remember:
 
 Also consider to enhance a nice behaviour among our community and be
 
-Repository Representatives
+Repository Maintainers
 -------

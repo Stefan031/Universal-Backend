@@ -8,16 +8,10 @@ We've made this repository to solve problems and discover and learn/teach about 
 Conduct
 -------
 
-Before participating in any discussions, there are some rules of conduct that should be respected and followed.
-Please consider using English as much as you can, any other issue, discussion made in other languages will be deleted.
-
-So no further into, please remember:
-- Insulting, swearing, harassing, cyber-bullying is strictly prohibited
-- Bad-posting, shit-posting and spamming is not allowed.
-- Please use design and make your post look neat and clean as much as possible.
-- Don't enforce the staff's repository or any other people to answer, solve your problem, wait patiently.
-
-Also consider to enhance a nice behaviour among our community and be
+[Here is the Code Of Conduct](https://github.com/Stefan031/Universal-Backend/blob/main/CODE_OF_CONDUCT.md). It is advisable for everyone to read.
 
 Repository Maintainers
 -------
+
+Stefan
+Ty3r0X [website](ty3r0x.neocities.org)

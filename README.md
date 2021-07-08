@@ -8,10 +8,11 @@ We've made this repository to solve problems and discover and learn/teach about 
 Conduct
 -------
 
-[Here is the Code Of Conduct](https://github.com/Stefan031/Universal-Backend/blob/main/CODE_OF_CONDUCT.md). It is advisable for everyone to read.
+In order to keep the community solid and armonious to each other, we must acknowledge the [Code of Conduct](https://github.com/Stefan031/Universal-Backend/blob/main/CODE_OF_CONDUCT.md). Everyone is encouraged to read and respect it. Any violation will be punished as stated in the Code of Conduct.
 
-Repository Maintainers
+Repository Staff
 -------
 
-Stefan
-Ty3r0X [website](ty3r0x.neocities.org)
+**Principal Main Maintainers**
+- Community Creator [Ty3r0x](https://ty3r0x.neocities.org)
+- Game Servers Scripter [Stefan](https://github.com/Stefan031)

@@ -18,5 +18,7 @@ So no further into, please remember:
 - Please use design and make your post look neat and clean as much as possible.
 - Don't enforce the staff's repository or any other people to answer, solve your problem, wait patiently.
 
+Also consider to enhance a nice behaviour among our community and be
+
 Repository Representatives
 -------

@@ -10,6 +10,11 @@ Conduct
 
 In order to keep the community solid and armonious to each other, we must acknowledge the [Code of Conduct](https://github.com/Stefan031/Universal-Backend/blob/main/CODE_OF_CONDUCT.md). Everyone is encouraged to read and respect it. Any violation will be punished as stated in the Code of Conduct.
 
+Reporting
+-------
+
+Any noticed violation of Code Of Conduct by a community member, should be reported to the project maintainers as soon as possible, we highy recommend to help us get rid of spammers, bullys and people that don't enjoy kind and respectful behaviour. So no further into, to report a community member that violated our policy, we have a **[form](https://docs.google.com/forms/d/e/1FAIpQLSdDygM-Wcj44zj6TOc5qyOzLOaTU539saMY53mt4jrOR3egWg/viewform?usp=sf_link)** to complete.
+
 Repository Staff
 -------
 

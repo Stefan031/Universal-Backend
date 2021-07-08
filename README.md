@@ -13,6 +13,9 @@ In order to keep the community solid and armonious to each other, we must acknow
 Repository Staff
 -------
 
-**Principal Main Maintainers**
+**Project Maintainers**
 - Community Creator [Ty3r0x](https://ty3r0x.neocities.org)
 - Game Servers Scripter [Stefan](https://github.com/Stefan031)
+
+**Moderator**
+- App Developer [MajorHxD](https://github.com/MajorHxD)

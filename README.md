@@ -1,5 +1,4 @@
 # Universal Backend
-==============
 
 This repository has been made for public codes, files, bugs, open discussions and sharing.
 Everyone is welcomed to share its ideas and start new discussions.

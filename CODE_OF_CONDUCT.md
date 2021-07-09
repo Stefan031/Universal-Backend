@@ -112,6 +112,18 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
 
+## Reporting
+
+Reporting someone for violating the Code Of Conduct might be the best for everyone
+in this community, but we have to keep some limits.
+
+* Utilizing the form for spamming, trolling, harassing is not allowed.
+* Multiple reports made in a short period of time is prohibited.
+* Using a neat and clean, correct writting, punctuation.
+
+The rules not listed here, mentioned in the Code Of Conduct above may also be
+appreciated when sending a Report Form.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],

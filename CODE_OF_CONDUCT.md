@@ -118,7 +118,7 @@ Reporting someone for violating the Code Of Conduct might be the best for everyo
 in this community, but we have to keep some limits.
 
 * Utilizing the form for spamming, trolling, harassing is not allowed.
-* Making multiple reports made in a short period of time against the same person is prohibited.
+* Making multiple reports in a short period of time against the same person is prohibited.
 * Using a neat and clean, correct writting, punctuation.
 
 The rules not listed here, mentioned in the Code Of Conduct above may also be
